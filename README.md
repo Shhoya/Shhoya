@@ -1,5 +1,7 @@
-### Hi there 👋
+| <a href="https://shhoya.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoya&show_icons=true&theme=great-gatsby&hide_border=true" alt="gmh5225's github stats" /></a> | <a href="https://shhoya.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhoya&layout=compact&theme=great-gatsby&hide_border=true&hide=TeX" /></a> |
+| ------------- | ------------- |
 
+🔰 I'm NEWBIE
 <!--
 **Shhoya/Shhoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
