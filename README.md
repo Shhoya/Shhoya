@@ -1,4 +1,4 @@
-| <a href="https://shhoya.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoya&show_icons=true&theme=great-gatsby&hide_border=true" alt="gmh5225's github stats" /></a> | <a href="https://shhoya.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhoya&layout=compact&theme=great-gatsby&hide_border=true&hide=TeX" /></a> |
+| <a href="https://shhoya.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shhoya&show_icons=true&theme=tokyonight&hide_border=true" alt="Shh0ya github stats" /></a> | <a href="https://shhoya.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhoya&layout=compact&theme=tokyonight&hide_border=true&hide=TeX" /></a> |
 | ------------- | ------------- |
 
 🔰 I'm NEWBIE
